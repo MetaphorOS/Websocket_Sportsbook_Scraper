@@ -1,4 +1,4 @@
-# DraftKings vs FanDuel: live NFL odds board
+# DraftKings, FanDuel, Polymarket and BetMGM: live NFL/NBA odds board
 
 **Live:** https://betstamp-odds.fly.dev/ (Fly.io, Toronto `yyz`)
 **Repo:** this repository. The app is in [`app/`](app/); the investigation that came before it is in [`research/`](research/).
